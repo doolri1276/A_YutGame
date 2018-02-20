@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">YutGame</string>
+    <string name="gamestart2p">2인용 게임 시작!</string>
+
+
+
+
+
+    <string name="newMal">새로운 말</string>
+    <string name="finishedMal">완주한 말</string>
+    <string name="throwYut">!윳던지기!</string>
+</resources>

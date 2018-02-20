@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="boxSize">40dp</dimen>
+    <dimen name="boxMargin">4dp</dimen>
+    <dimen name="bigBoxSize">88dp</dimen>
+    <dimen name="yutpanSize">320dp</dimen>
+    <dimen name="bigCircleSize">50dp</dimen>
+    <dimen name="mediumCircleSize">25dp</dimen>
+    <dimen name="smallCircleSize">25dp</dimen>
+    <dimen name="smallCircleMargin">10dp</dimen>
+    <dimen name="mediumCircleMargin">4dp</dimen>
+</resources>
